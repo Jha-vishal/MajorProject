@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c605e46d59f30384085806fea030875a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FUN GAMES
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d45016ed555a6fd428b4c9bf8d613f3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

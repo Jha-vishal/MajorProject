@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: daf6c19b6d2788e45850899729957075
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Handbold Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8875d43a8205c564d8d450eb41ae2bb6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
